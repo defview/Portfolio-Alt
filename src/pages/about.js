@@ -57,16 +57,16 @@ const about = () => {
                 Biography
               </h2>
               <p className="font-medium text-lg dark:text-[#015249]">
-                Hi, I'm Folafemi Alexander, a Front end Engineer with a passion
+                Hi, I&apos;m Folafemi Alexander, a Front end Engineer with a passion
                 for creating beautiful, functional, and user-centered digital
                 experiences. With over 3 years of experience in the field. I am
-                always looking for new and innovative ways to bring my clients'
+                always looking for new and innovative ways to bring my clients&apos;
                 visions to life.
               </p>
               <p className="my-4 font-medium text-lg dark:text-[#015249]">
                 {" "}
                 I believe that design is about more than just making things look
-                pretty – it's about solving problems and creating intuitive,
+                pretty – it&apos;s about solving problems and creating intuitive,
                 enjoyable experiences for users.{" "}
               </p>
               <p className="font-medium text-lg dark:text-[#015249]">
